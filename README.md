@@ -70,7 +70,6 @@ The notebook potato-disease-classification.ipynb covers the entire workflow:
 * Defining a CNN model architecture with TensorFlow/Keras
 * Training for a configurable number of epochs
 * Evaluating accuracy and loss on a test set
-* Saving the trained model as a .h5 file
 
 **Model Highlights:**
 
@@ -108,7 +107,7 @@ Pillow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/potato-disease-classification.git
+   git clone https://github.com/Kibs-Neville/potato-disease-classification.git
    cd potato-disease-classification
    ```
 
